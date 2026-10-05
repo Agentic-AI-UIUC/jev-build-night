@@ -1,0 +1,247 @@
+{
+ "simulated": true,
+ "answers": {
+  "1": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.944,
+    "urgent": 0.034,
+    "ignore": 0.021
+   }
+  },
+  "2": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.701,
+    "this_week": 0.167,
+    "ignore": 0.132
+   }
+  },
+  "3": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.604,
+    "urgent": 0.309,
+    "ignore": 0.087
+   }
+  },
+  "4": {
+   "type": "choice",
+   "choice": "ignore",
+   "probabilities": {
+    "ignore": 0.884,
+    "urgent": 0.081,
+    "this_week": 0.036
+   }
+  },
+  "5": {
+   "type": "choice",
+   "choice": "ignore",
+   "probabilities": {
+    "ignore": 0.948,
+    "urgent": 0.042,
+    "this_week": 0.01
+   }
+  },
+  "6": {
+   "type": "choice",
+   "choice": "ignore",
+   "probabilities": {
+    "ignore": 0.727,
+    "urgent": 0.2,
+    "this_week": 0.073
+   }
+  },
+  "7": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.955,
+    "urgent": 0.04,
+    "ignore": 0.005
+   }
+  },
+  "8": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.795,
+    "this_week": 0.114,
+    "ignore": 0.091
+   }
+  },
+  "9": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.948,
+    "urgent": 0.031,
+    "ignore": 0.021
+   }
+  },
+  "10": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.839,
+    "urgent": 0.14,
+    "ignore": 0.021
+   }
+  },
+  "11": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.678,
+    "this_week": 0.189,
+    "ignore": 0.133
+   }
+  },
+  "12": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.917,
+    "urgent": 0.065,
+    "ignore": 0.017
+   }
+  },
+  "13": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.699,
+    "this_week": 0.248,
+    "ignore": 0.053
+   }
+  },
+  "14": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.706,
+    "this_week": 0.235,
+    "ignore": 0.06
+   }
+  },
+  "15": {
+   "type": "choice",
+   "choice": "this_week",
+   "probabilities": {
+    "this_week": 0.737,
+    "urgent": 0.218,
+    "ignore": 0.045
+   }
+  },
+  "16": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.913,
+    "this_week": 0.055,
+    "ignore": 0.032
+   }
+  },
+  "17": {
+   "type": "choice",
+   "choice": "ignore",
+   "probabilities": {
+    "ignore": 0.783,
+    "urgent": 0.144,
+    "this_week": 0.072
+   }
+  },
+  "18": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.575,
+    "this_week": 0.284,
+    "ignore": 0.14
+   }
+  },
+  "19": {
+   "type": "choice",
+   "choice": "urgent",
+   "probabilities": {
+    "urgent": 0.798,
+    "this_week": 0.123,
+    "ignore": 0.079
+   }
+  },
+  "20": {
+   "type": "choice",
+   "choice": "ignore",
+   "probabilities": {
+    "ignore": 0.661,
+    "urgent": 0.258,
+    "this_week": 0.081
+   }
+  }
+ },
+ "usage": {
+  "1": {
+   "cost": 1.723e-05
+  },
+  "2": {
+   "cost": 2.218e-05
+  },
+  "3": {
+   "cost": 1.874e-05
+  },
+  "4": {
+   "cost": 2.438e-05
+  },
+  "5": {
+   "cost": 1.642e-05
+  },
+  "6": {
+   "cost": 1.96e-05
+  },
+  "7": {
+   "cost": 2.369e-05
+  },
+  "8": {
+   "cost": 1.773e-05
+  },
+  "9": {
+   "cost": 2.276e-05
+  },
+  "10": {
+   "cost": 2.348e-05
+  },
+  "11": {
+   "cost": 1.818e-05
+  },
+  "12": {
+   "cost": 1.609e-05
+  },
+  "13": {
+   "cost": 1.734e-05
+  },
+  "14": {
+   "cost": 1.694e-05
+  },
+  "15": {
+   "cost": 2.091e-05
+  },
+  "16": {
+   "cost": 1.523e-05
+  },
+  "17": {
+   "cost": 1.634e-05
+  },
+  "18": {
+   "cost": 1.617e-05
+  },
+  "19": {
+   "cost": 2.063e-05
+  },
+  "20": {
+   "cost": 2.204e-05
+  }
+ }
+}

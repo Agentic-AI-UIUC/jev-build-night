@@ -1,0 +1,21 @@
+id,text,label
+1,"[Mon Oct 5] Lumora Labs recruiter: Please confirm your Tuesday 9 AM interview by replying today, or we will give the slot to another candidate.",urgent
+2,[Mon Oct 5] Housing: Your $300 room deposit must be paid by 5 PM today or your room will be released.,urgent
+3,[Mon Oct 5] Campus Store: 20% off hoodies this weekend only!,ignore
+4,[Mon Oct 5] Dean's office: Congratulations on making the Dean's List! No action needed.,ignore
+5,"[Mon Oct 5] Scholarship office: Applications close Oct 30. The essay takes about 2 weeks, so start now.",this_week
+6,[Mon Oct 5] Weekly newsletter: 10 fun facts about the squirrels on the quad.,ignore
+7,[Mon Oct 5] FINAL NOTICE!! The parking permit survey closes today. Share your thoughts.,ignore
+8,[Mon Oct 5] Club president: Meeting Thursday 7 PM in Room 210 to plan the fall fundraiser. Bring ideas.,this_week
+9,[Mon Oct 5] Roommate: The $60 wifi bill is due Friday. Can you send me your $30 by then?,this_week
+10,[Mon Oct 5] Dining services: Meal plan changes are allowed until Friday Oct 9.,this_week
+11,[Mon Oct 5] Financial Aid: A FAFSA verification document is missing. Your aid is on hold. Deadline: Wed Oct 7.,urgent
+12,"[Mon Oct 5] TA: Problem set 4 is due Sunday Oct 11. Start early, the last question is hard.",this_week
+13,[Mon Oct 5] Lumora Labs job alert: 14 new jobs match your saved search.,ignore
+14,"[Mon Oct 5] Bursar: Your payment plan installment of $1,100 is due Tuesday Oct 6. Auto-pay failed.",urgent
+15,[Mon Oct 5] Prof. Okafor: The final project partner form is due Friday Oct 9. Submit it on the course page.,this_week
+16,"[Mon Oct 5] Your advisor: Stop by my office hours today before 4 PM. I need to sign your graduation form, due to the registrar Tuesday.",urgent
+17,[Mon Oct 5] Alumni Association: Please give to the Class Fund. Your gift matters!,ignore
+18,[Mon Oct 5] Prof. Okafor: The midterm is Thursday Oct 8 in Hall B. Bring a calculator.,this_week
+19,[Mon Oct 5] Prof. Okafor: Your lab report is due tonight at 11:59 PM. Late work gets zero.,urgent
+20,[Mon Oct 5] Registrar: Your course add/drop deadline is tomorrow at 5 PM. Changes after that cost a $50 late fee.,urgent

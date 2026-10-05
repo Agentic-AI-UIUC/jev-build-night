@@ -1,0 +1,36 @@
+{
+  "name": "Support tickets",
+  "type": "choice",
+  "labels": [
+    "billing",
+    "technical",
+    "account"
+  ],
+  "state_key": "ticket",
+  "variants": [
+    {
+      "instructions": "Route this support ticket for the Pocketly app to one team. If it mentions more than one topic, pick the team that must act first on the main request. A bug that only looks like a billing problem is technical.",
+      "criteria": {
+        "billing": "Charges, refunds, prices, invoices, payment methods, discounts, trials and renewals.",
+        "technical": "Bugs, crashes, slow performance, sync failures, broken features or display problems in the app.",
+        "account": "Login, passwords, email changes, account deletion or closure, merging accounts, and account security."
+      }
+    },
+    {
+      "instructions": "Which team should get this ticket?",
+      "criteria": {
+        "billing": "About money.",
+        "technical": "About the app not working.",
+        "account": "About the user's profile."
+      }
+    },
+    {
+      "instructions": "Sort this ticket.",
+      "criteria": {
+        "billing": "Billing.",
+        "technical": "Technical.",
+        "account": "Account."
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+id,text,label
+1,The app takes 10 seconds to open on my iPad.,technical
+2,How do I change the email address on my account?,account
+3,I need an invoice with my company name for last quarter's charges.,billing
+4,Notifications stopped arriving after the last update.,technical
+5,Can I merge my two Pocketly accounts into one?,account
+6,I cancelled before the trial ended but still got billed $79.99 for the yearly plan.,billing
+7,Does the student discount apply to the annual plan? I'm paying full price right now.,billing
+8,Someone else seems to be logged into my account. I see transactions I didn't make.,account
+9,I was charged twice for my Pocketly Plus subscription this month ($7.99 x2). Please refund one.,billing
+10,Dark mode makes the chart labels unreadable.,technical
+11,Bank sync has been stuck on 'connecting' for 3 days.,technical
+12,I want to delete my account and all my data.,account
+13,Please close my account. Also make sure I won't be charged again next month.,account
+14,"After the update, the app shows my subscription as expired even though I paid. Everything is greyed out.",technical
+15,App crashes whenever I tap the Reports tab on Android 14.,technical
+16,I can't log in and I was charged for a month I couldn't use the app. Refund please?,account
+17,CSV export downloads an empty file.,technical
+18,I updated my card but the app still says payment failed.,technical
+19,I forgot my password and the reset link says it expired.,account
+20,Why did my plan go from $4.99 to $7.99? I never got a notice.,billing

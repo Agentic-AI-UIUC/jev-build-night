@@ -1,0 +1,6 @@
+{"simulated": true, "answers": {
+ "1": {"type": "noul", "noul": 0.97},
+ "2": {"type": "noul", "noul": 0.05},
+ "3": {"type": "noul", "noul": 0.30},
+ "4": {"type": "noul", "noul": 0.95}},
+ "usage": {"1": {"cost": 0.00001}, "2": {"cost": 0.00001}, "3": {"cost": 0.00001}, "4": {"cost": 0.00001}}}

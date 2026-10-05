@@ -1,0 +1,6 @@
+{"name": "Mini scam", "type": "noul", "labels": ["yes", "no"], "state_key": "message",
+ "variants": [
+  {"instructions": "Is this a scam?", "criteria": {"true": "scam", "false": "real"}},
+  {"instructions": "Scam?", "criteria": {"true": "yes", "false": "no"}},
+  {"instructions": "Bad?", "criteria": {"true": "bad", "false": "ok"}}
+ ]}

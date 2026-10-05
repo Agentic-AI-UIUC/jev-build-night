@@ -1,0 +1,32 @@
+{
+  "name": "Scam texts",
+  "type": "noul",
+  "labels": [
+    "yes",
+    "no"
+  ],
+  "state_key": "message",
+  "variants": [
+    {
+      "instructions": "Decide whether this SMS is a scam. Look for pressure to act fast, links to unknown sites, requests for money, gift cards, codes or bank details, and senders that cannot be checked. A real message may still sound serious or contain a link from a known sender.",
+      "criteria": {
+        "true": "A scam or phishing text meant to steal money or personal data (fake delivery fees, fake bank alerts, gift-card requests, fake jobs, fake refunds).",
+        "false": "A real text from a known person or business, such as a receipt, code, reminder or genuine fraud alert that asks you to use official channels."
+      }
+    },
+    {
+      "instructions": "Is this text message a scam?",
+      "criteria": {
+        "true": "It is a scam.",
+        "false": "It is a real message."
+      }
+    },
+    {
+      "instructions": "Is this bad?",
+      "criteria": {
+        "true": "Bad.",
+        "false": "Not bad."
+      }
+    }
+  ]
+}

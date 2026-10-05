@@ -1,0 +1,16 @@
+[project]
+name = "jev-build-night"
+version = "0.1.0"
+description = "Agentic AI @ UIUC build night: Jev decision model starter"
+requires-python = ">=3.11"
+dependencies = ["httpx>=0.27", "python-dotenv>=1.0"]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["jevkit"]

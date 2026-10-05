@@ -1,0 +1,36 @@
+{
+  "name": "Student emails",
+  "type": "choice",
+  "labels": [
+    "urgent",
+    "this_week",
+    "ignore"
+  ],
+  "state_key": "email",
+  "variants": [
+    {
+      "instructions": "You are a college student. Today is Monday Oct 5. Decide how soon this email needs action. Check the dates: urgent means action is needed within about 2 days; this_week means action is needed by Sunday Oct 11; ignore means no action is needed. Loud wording alone does not make an email urgent.",
+      "criteria": {
+        "urgent": "Real deadline or consequence within about 2 days (by Wed Oct 7).",
+        "this_week": "Action needed, but the deadline or event is later this week (by Sun Oct 11), or work must start now.",
+        "ignore": "Marketing, newsletters, alerts, optional surveys or news that need no action."
+      }
+    },
+    {
+      "instructions": "How important is this email for a student?",
+      "criteria": {
+        "urgent": "Very important.",
+        "this_week": "Somewhat important.",
+        "ignore": "Not important."
+      }
+    },
+    {
+      "instructions": "Triage this.",
+      "criteria": {
+        "urgent": "Urgent.",
+        "this_week": "This week.",
+        "ignore": "Ignore."
+      }
+    }
+  ]
+}

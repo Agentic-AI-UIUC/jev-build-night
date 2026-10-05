@@ -1,0 +1,44 @@
+{
+  "name": "Product reviews",
+  "type": "score",
+  "labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "state_key": "review",
+  "variants": [
+    {
+      "instructions": "Give the star rating (1 to 5) that the reviewer most likely gave. Weigh the whole review: sarcasm, mixed praise and complaints, and how willing the reviewer is to buy again.",
+      "criteria": [
+        "Product failed or was unusable; angry or sarcastic; would not recommend.",
+        "Mostly disappointed; one or two good points but main problems remain.",
+        "Mixed or lukewarm; strong good and bad points balance out.",
+        "Good with a small complaint; would recommend.",
+        "Delighted; no real complaints; strongly recommends."
+      ]
+    },
+    {
+      "instructions": "How many stars is this review?",
+      "criteria": [
+        "Very bad.",
+        "Bad.",
+        "Okay.",
+        "Good.",
+        "Very good."
+      ]
+    },
+    {
+      "instructions": "Rate this.",
+      "criteria": [
+        "Low.",
+        "Fairly low.",
+        "Middle.",
+        "Fairly high.",
+        "High."
+      ]
+    }
+  ]
+}
